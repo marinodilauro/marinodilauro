@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning full stacke development at Boolean!
+🌱 I’m currently learning full stack development at Boolean!
 
 📫 How to reach me:
 - Instagram https://www.instagram.com/dilamar90
