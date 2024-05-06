@@ -6,8 +6,8 @@
 - Instagram https://www.instagram.com/dilamar90
 - Email dilamar900@gmail.com
 
+<a href="https://app.daily.dev/marinodilauro"><img src="https://api.daily.dev/devcards/v2/i2wBVvYiWjLfBHxq4txLd.png?type=default&r=nrw" width="356" alt="Marino di Lauro's Dev Card"/></a>
 
-<a href="https://app.daily.dev/marinodilauro"><img src="https://api.daily.dev/devcards/v2/i2wBVvYiWjLfBHxq4txLd.png?type=default&r=541" width="356" alt="Marino di Lauro's Dev Card"/></a>
 <!--
 **marinodilauro/marinodilauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
