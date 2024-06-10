@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning full stack development at Boolean!
+👨🏻‍💻Jr Full Stack Web Developer
+🕹️Jr VideoGame Developer
 
 📫 How to reach me:
 - Instagram https://www.instagram.com/dilamar90
