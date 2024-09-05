@@ -1,12 +1,20 @@
-### Hi there 👋
+<div style="display:flex">
+  <p>
+    ### Hi there 👋
 
-👨🏻‍💻Jr Full Stack Web Developer | 🕹️Jr VideoGame Developer
+    👨🏻‍💻Jr Full Stack Web Developer | 🕹️Jr VideoGame Developer
+    
+    📫 How to reach me:
+    - Instagram https://www.instagram.com/dilamar90
+    - Email dilamar900@gmail.com
+  </p>
+  
+<div>
+    <a href="https://app.daily.dev/marinodilauro"><img src="https://api.daily.dev/devcards/v2/i2wBVvYiWjLfBHxq4txLd.png?type=default&r=nrw" width="356" alt="Marino di Lauro's Dev Card"/></a>
+</div>
 
-📫 How to reach me:
-- Instagram https://www.instagram.com/dilamar90
-- Email dilamar900@gmail.com
+</div>
 
-<a href="https://app.daily.dev/marinodilauro"><img src="https://api.daily.dev/devcards/v2/i2wBVvYiWjLfBHxq4txLd.png?type=default&r=nrw" width="356" alt="Marino di Lauro's Dev Card"/></a>
 
 <!--
 **marinodilauro/marinodilauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
